@@ -1,16 +1,18 @@
-### Hi there 👋
+### Braully Rocha
 
-<!--
-**braully/braully** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-Here are some ideas to get you started:
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Languages :** Python3, Java
+-  **Organizations :** IPASGO, UEG, SENAC, IFGoiano.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=braully&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⭐️ From [Braully Rocha](https://github.com/braully)
+
