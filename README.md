@@ -8,8 +8,11 @@
 -  **Organizations :** ~~IPASGO, UEG, SENAC,~~ IFGoiano.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=braully&show_icons=true&count_private=true&layout=compact&&langs_count=6)  
 
-![github stats](https://github-readme-stats.vercel.app/api?username=braully&show_icons=true&count_private=true)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=braully&show_icons=true&count_private=true&layout=compact)  
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
