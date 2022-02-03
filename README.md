@@ -5,7 +5,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 -  **Languages :** Python3, Java | Full-Stack 
+<!---
+-  **Academic :** PhD student at UFG
 -  **Organizations :** ~~IPASGO, UEG, SENAC,~~ IFGoiano.
+-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=braully&show_icons=true&count_private=true&layout=compact&&langs_count=6)  
