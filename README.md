@@ -14,7 +14,7 @@
 
 ### My repositories
 - Java:
-    - [Bolsa crawler](https://github.com/braully/msc-dsc-exercices-2015-2025):  Web scraping, selenium and jsoup
+    - [Bolsa crawler](https://github.com/braully/bolsa-cvm-crawler):  Web scraping, selenium and jsoup
     - [Bopepo braully fork's](https://github.com/braully/bopepo): Itext, jasper and pdf layout
     - [GUMP](https://github.com/braully/generic-universal-model-persistence): JPA and UML Model
     - Android
