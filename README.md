@@ -18,13 +18,16 @@
     - [Bopepo braully fork's](https://github.com/braully/bopepo): Itext, jasper and pdf layout
     - [GUMP](https://github.com/braully/generic-universal-model-persistence): JPA and UML Model
     - [SB Webdav Server](https://github.com/braully/sb-webdav-server): WebDAV server with Spring Boot
+    - Fingerprint biometric
     - Android
 - Python:
     - Web scraping
+    - Portifolio optimization
 - Master/Phd computer science:
-    - [Graph problems tool](https://github.com/braully/graph-problems-tool): Graph theory, d3js, angularjs and RESTful
+    - [Graph problems tool](https://github.com/braully/graph-problems-tool): Graph theory, C/C++/CUDA, d3js, angularjs and RESTful
     - [Exercices](https://github.com/braully/msc-dsc-exercices-2015-2025)
     - Papers
+    - [Braully lattes's](http://lattes.cnpq.br/6423154319465728)
 - HTML5:
     - CSS
     - JavaScript
