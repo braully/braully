@@ -4,9 +4,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  **Languages :** Python3, Java | Full-Stack 
-<!---
--  **Academic :** PhD student at UFG
+-  **Main languages :** Python 3+, Java 8+ | Full-Stack 
+-  **Academic :** Computer Science at [INF/UFG](https://www.inf.ufg.br)
+<!--
 -  **Organizations :** ~~IPASGO, UEG, SENAC,~~ IFGoiano.
 -->
 
@@ -17,6 +17,7 @@
     - [Bolsa crawler](https://github.com/braully/bolsa-cvm-crawler):  Web scraping, selenium and jsoup
     - [Bopepo braully fork's](https://github.com/braully/bopepo): Itext, jasper and pdf layout
     - [GUMP](https://github.com/braully/generic-universal-model-persistence): JPA and UML Model
+    - [SB Webdav Server](https://github.com/braully/sb-webdav-server): WebDAV server with Spring Boot
     - Android
 - Python:
     - Web scraping
