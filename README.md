@@ -26,7 +26,7 @@
 - Master/Phd computer science:
     - [Graph problems tool](https://github.com/braully/graph-problems-tool): Graph theory, C/C++/CUDA, d3js, angularjs and RESTful
     - [Exercices](https://github.com/braully/msc-dsc-exercices-2015-2025)
-    - Papers
+    - [Papers](https://www.researchgate.net/profile/Braully-Silva-2)
     - [Braully lattes's](http://lattes.cnpq.br/6423154319465728)
 - HTML5:
     - CSS
