@@ -4,8 +4,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  **Main languages :** Python 3+, Java 8+ | Full-Stack 
+-  **Main languages :** Python 3+, Java 8+ | Full Stack 
 -  **Academic :** Computer Science at [INF/UFG](https://www.inf.ufg.br)
+-  **Organizations :** DTI Reitoria at [IFGoiano](https://ifgoiano.edu.br).
 <!--
 -  **Organizations :** ~~IPASGO, UEG, SENAC,~~ IFGoiano.
 -->
